@@ -1,6 +1,7 @@
 # gpt_chat
 
-A new Flutter project.
+Flutter app with GPT3.5 integrated
+chatbot mobile version
 
 ## Getting Started
 
