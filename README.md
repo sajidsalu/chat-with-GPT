@@ -1,6 +1,10 @@
 # gpt_chat
 
-A new Flutter project.
+Flutter app with GPT3.5 integrated
+chatbot mobile version
+
+![Screenshot_1680234861](https://user-images.githubusercontent.com/21031360/229020635-70ad5115-40c6-408a-b136-d2aed787077c.png)
+
 
 ## Getting Started
 
